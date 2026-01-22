@@ -64,26 +64,6 @@ Tool routing is handled using an intent-based LangGraph router.
 
 ---
 
-## Project Structure
-ai-first-crm-hcp/
-├── backend/
-│ ├── main.py
-│ ├── agent/
-│ │ ├── graph.py
-│ │ ├── router.py
-│ │ ├── state.py
-│ │ └── tools/
-│ │ ├── log_interaction.py
-│ │ ├── edit_interaction.py
-│ │ ├── get_history.py
-│ │ ├── generate_summary.py
-│ │ └── suggest_followup.py
-│ └── llm/
-│ └── groq_client.py
-│
-├── frontend/
-│ └── src/
-│ └── App.js
-│
-└── README.md
+
+
 
