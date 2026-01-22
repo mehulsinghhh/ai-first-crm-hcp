@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langgraph
+groq
+pydantic
+sqlalchemy
